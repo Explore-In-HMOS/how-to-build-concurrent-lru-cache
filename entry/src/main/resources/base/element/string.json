@@ -1,0 +1,32 @@
+{
+  "string": [
+    {
+      "name": "accelerometer_desc",
+      "value": "App needs to use your acceleration."
+    },
+    {
+      "name": "pedometer_desc",
+      "value": "App needs to use your steps."
+    },
+    {
+      "name": "reason_health_data",
+      "value": "App needs to listen to your heart."
+    },
+    {
+      "name": "reason_gyroscope",
+      "value": "App needs to listen to your heart."
+    },
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "UltraSensors"
+    }
+  ]
+}
