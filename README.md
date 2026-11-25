@@ -25,7 +25,7 @@ This application is a wearable sensor monitoring demo built with ArkTS. It displ
 # Technology
 
 ## Stack
-- ArkTS on HarmonyOS NEXT (Stage Model)
+- ArkTS on HarmonyOS (Stage Model)
 - `ArkTSUtils`
 - `@kit.SensorServiceKit`
 - `@ohos.worker`
